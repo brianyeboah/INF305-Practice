@@ -1,2 +1,2 @@
 This is my first Git tracked file.
-This sentence was added directly on GitHub.
+This sentence was added locally after pulling from GitHub.
