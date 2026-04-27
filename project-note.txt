@@ -1,1 +1,2 @@
 This is my first Git tracked file.
+This sentence was added directly on GitHub.
